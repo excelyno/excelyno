@@ -10,7 +10,7 @@
 - 🔭 I'm currently Studying on **SMK Negeri 2 Jember**
 - 🌱 I'm currently learning **DevOps**
 - 💬 Ask me about **something**
-- 📫 How to reach me: **excellentqweeeegmail.com**
+- 📫 How to reach me: **excellentqweee@gmail.com**
 - ⚡ Fun fact: **I love my Nokturnal creature**
 
 ## 🏆 GitHub Trophy
