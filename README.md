@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-## 🧐 About Me
+# 🧐 About Me
 
 - 🔭 I'm currently Studying on **University of Jember**
 - 🌱 I'm currently learning **DevOps**
