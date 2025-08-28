@@ -12,7 +12,7 @@
 <p align="center">🚀 My Current Universe</p>
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 <h3 align="left">👨‍💻 About Me</h3>
 <p>
 Saya seorang engineer yang percaya bahwa kode yang hebat tidak hanya berfungsi, tetapi juga mudah dipelihara dan diskalakan. Sebagai <strong>Fullstack Developer</strong>, saya menikmati proses membangun pengalaman pengguna yang mulus. Sebagai seorang <strong>DevOps Engineer</strong>, saya memastikan bahwa kode tersebut dapat di-deploy dengan andal dan cepat.
@@ -22,12 +22,6 @@ Saya seorang engineer yang percaya bahwa kode yang hebat tidak hanya berfungsi, 
 <li>🔭 Lagi mengerjakan beberapa proyek pribadi seputar otomatisasi alur kerja developer.</li>
 <li>💬 Tanya saya tentang apa saja, mulai dari arsitektur mikroservis hingga mechanical keyboard.</li>
 </ul>
-</td>
-<td width="35%" align="center" valign="top">
-<h3 align="center">💡 My Coding Philosophy</h3>
-<p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=catppuccin_dark" alt="Coding Quote"/>
-</p>
 </td>
 </tr>
 </table>
@@ -51,6 +45,19 @@ Saya seorang engineer yang percaya bahwa kode yang hebat tidak hanya berfungsi, 
 </a>
 </p>
 
+<p align="center">🎮 My 3D Dev Space</p>
+<p align="center">
+<i>Ini adalah representasi 3D dari ruang kerja digital saya. Silakan berinteraksi!</i>
+<br><br>
+<a href="https://github.com/excelyno">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/excelyno/excelyno/blob/main/profile-3d-contrib/profile-night-green.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/excelyno/excelyno/blob/main/profile-3d-contrib/profile-light-green.svg" />
+<img alt="My 3D Contribution Graph" src="https://github.com/excelyno/excelyno/blob/main/profile-3d-contrib/profile-night-green.svg" />
+</picture>
+</a>
+</p>
+
 <p align="center">📊 My GitHub Pulse & Coding Activity</p>
 <div align="center">
 <table width="100%">
@@ -68,16 +75,6 @@ Saya seorang engineer yang percaya bahwa kode yang hebat tidak hanya berfungsi, 
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=catppuccin&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
-
-<p align="center">🏙️ My GitHub Skyline</p>
-<p align="center">
-<!-- Ganti 'excelyno' dengan username Anda dan '2024' dengan tahun yang diinginkan -->
-<a href="https://skyline.github.com/excelyno/2024">
-<img src="https://skyline.github.com/excelyno/2024.png" alt="GitHub Skyline" width="80%"/>
-</a>
-<br>
-<i>3D visualization of my contribution graph. Click to interact!</i>
-</p>
 
 <p align="center">📰 Latest Blog Posts</p>
 <!-- Ganti dengan URL RSS feed blog Anda (Medium, Dev.to, dll.) -->
