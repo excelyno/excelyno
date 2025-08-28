@@ -69,6 +69,16 @@ Saya seorang engineer yang percaya bahwa kode yang hebat tidak hanya berfungsi, 
 <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=catppuccin&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
+<p align="center">🏙️ My GitHub Skyline</p>
+<p align="center">
+<!-- Ganti 'excelyno' dengan username Anda dan '2024' dengan tahun yang diinginkan -->
+<a href="https://skyline.github.com/excelyno/2024">
+<img src="https://skyline.github.com/excelyno/2024.png" alt="GitHub Skyline" width="80%"/>
+</a>
+<br>
+<i>3D visualization of my contribution graph. Click to interact!</i>
+</p>
+
 <p align="center">📰 Latest Blog Posts</p>
 <!-- Ganti dengan URL RSS feed blog Anda (Medium, Dev.to, dll.) -->
 
