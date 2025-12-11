@@ -84,13 +84,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 
 ---
 
-## ⌛ Wakatime (Coding Activity)
-<p align="center">
-  <img src="https://github-readme-stats-ten-sigma.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-*(Ganti `YOUR_WAKATIME_USERNAME` jika Anda memakai Wakatime)*
-
 ---
 
 ## 🌐 Deployment Status (Vercel)
@@ -99,11 +92,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 </p>
 
 ---
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/excelyno/excelyno/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
