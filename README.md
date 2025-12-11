@@ -56,10 +56,11 @@ I enjoy understanding how systems work under the hood and building secure, scala
 ---
 
 ## 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github-badge-api.deno.dev/excelyno/achievements?style=flat&padding=16&theme=dark" />
-</p>
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="excelyno trophies" />
+  </a>
+</div>
 ---
 
 ## 📊 GitHub Stats  
