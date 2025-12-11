@@ -55,10 +55,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 
 ---
 
-## 🏅 GitHub Achievements
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -67,12 +63,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
 ## 📘 Profile Summary Cards  
 <p align="center">
@@ -83,12 +74,6 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
 ---
 
-## 🌐 Deployment Status (Vercel)
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel"/>
-</p>
-
----
 
 ---
 
