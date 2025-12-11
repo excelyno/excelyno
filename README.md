@@ -1,57 +1,35 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Excelyno Magenta 👨‍💻</h1>
-<h3 align="center">Undergraduate Informatics Student • Cybersecurity Learner • Aspiring Backend Engineer</h3>
+<h3 align="center">Undergraduate Informatics Student · Cybersecurity Learner · Future Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/excelyno">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=550&lines=Informatics+Undergraduate+at+University+of+Jember;Cybersecurity+Enthusiast;Backend+Developer+in+Progress;Always+Learning+New+Tech!" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A8FFEF&size=24&center=true&vCenter=true&width=600&lines=Informatics+Student+at+University+of+Jember;Cybersecurity+and+Pentesting+Learner;Aspiring+Backend+Developer;DevOps+Foundations+From+SMK;Always+Exploring+New+Tech+and+Infrastructure" />
 </p>
 
 ---
 
-## 🚀 About Me
-I am an Informatics undergraduate at **University of Jember** with a strong passion for:
-- **Cybersecurity** (TryHackMe learner, Pentesting Fundamentals)
-- **Backend Engineering** (API design, system architecture, containerization)
-- **DevOps Foundations** (learned during vocational high school)
-- **Data, automation, and problem-solving**
+## 🚀 About Me  
+I am an undergraduate Informatics student at **University of Jember** with strong interest in:
 
-I love exploring security, building backend systems, and understanding how infrastructure works behind the scenes.
+- Cybersecurity (TryHackMe learner, Pentesting, CTF)
+- Backend Engineering (API, Clean Architecture, Database, Security)
+- DevOps practices (Docker, CI/CD, Linux)
+- System design and automation
 
----
-
-## 🧠 Current Focus
-- Learning **Cybersecurity Fundamentals & Pentesting**
-- Building backend projects using **Node.js / TypeScript / Go**
-- Strengthening DevOps skills through Docker, CI/CD, and cloud integrations
-- Understanding secure system design and threat modeling
+I enjoy understanding how systems work under the hood and building secure, scalable backend services.
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=Matrix&column=7&margin-w=10&margin-h=10"/>
-</p>
+## 🎯 Current Focus  
+- Improving cybersecurity fundamentals & pentesting  
+- Building backend microservices with Node.js / TypeScript  
+- Strengthening DevOps pipelines and cloud deployment  
+- Studying secure coding & system architecture  
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧰 Tech Stack & Tools
-
-### **Languages**
+## 🧰 Tech Stack  
+### Languages  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
@@ -59,7 +37,7 @@ I love exploring security, building backend systems, and understanding how infra
   <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus"/>
 </p>
 
-### **Backend & DevOps**
+### Backend & DevOps  
 <p>
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
@@ -68,7 +46,7 @@ I love exploring security, building backend systems, and understanding how infra
   <img src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx"/>
 </p>
 
-### **Cybersecurity**
+### Cybersecurity Tools  
 <p>
   <img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-000?style=for-the-badge&logo=kali-linux"/>
@@ -77,55 +55,86 @@ I love exploring security, building backend systems, and understanding how infra
 
 ---
 
-## 🔧 Development Environment & Cloud Widgets
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-### **Deployment Status**
-<p>
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📘 Profile Summary Cards  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
+</p>
+
+---
+
+## ⌛ Wakatime (Coding Activity)
+<p align="center">
+  <img src="https://github-readme-stats-ten-sigma.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+*(Ganti `YOUR_WAKATIME_USERNAME` jika Anda memakai Wakatime)*
+
+---
+
+## 🌐 Deployment Status (Vercel)
+<p align="center">
   <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Heroku%20Apps-000?style=for-the-badge&logo=heroku"/>
-</p>
-
-### **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=excelyno&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-## 🃏 Developer Card
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/excelyno/excelyno/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🔥 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 📫 Connect With Me
+## 📫 Connect with Me  
 <p>
-  <a href="https://github.com/excelyno"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:excelyno@example.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/excelyno">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:excelyno@example.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🧩 Fun Section
-### **"What I've Been Doing Lately" — Vercel Dev Activity**
+## 🔥 Developer Quote  
 <p align="center">
-  <img src="https://vercel-api.vercel.app/api/devstats?username=excelyno"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎯 Mission
-To become a skilled **Backend Engineer** with strong cybersecurity awareness, building robust, secure, and scalable systems that create real-world impact.
+## 🎯 Mission  
+To become a highly skilled backend engineer with deep cybersecurity awareness, capable of building secure, scalable, and efficient systems that create real-world impact.
 
 ---
 
-<p align="center">Thanks for visiting! ⭐ If you like my profile, consider starring my repositories.</p>
+<p align="center">
+  Thanks for visiting! If you like my work, consider starring my repositories.
+</p>
+
