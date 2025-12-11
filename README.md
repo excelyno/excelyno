@@ -57,7 +57,7 @@ I enjoy understanding how systems work under the hood and building secure, scala
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=onedark&no-frame=true&margin-w=8" />
 </p>
 
 ---
