@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Excelyno Magenta 👨‍💻</h1>
+<h1 align="center">Hi, I'm Excelyno Magenta </h1>
 <h3 align="center">Undergraduate Informatics Student · Cybersecurity Learner · Future Backend Engineer</h3>
 
 <p align="center">
@@ -69,10 +69,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
 </p>
-
----
-
----
 
 
 ---
