@@ -1,78 +1,131 @@
-<!-- README.md: Excelyno Magenta — Profile README (Innovative & Eye-catching) -->
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Excelyno Magenta 👨‍💻</h1>
+<h3 align="center">Undergraduate Informatics Student • Cybersecurity Learner • Aspiring Backend Engineer</h3>
 
-<!-- ====== HERO / BANNER ====== -->
 <p align="center">
-  <!-- Animated typing title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=800&lines=Excelyno+Magenta;Undergraduate+Informatics+-+University+of+Jember;Cybersecurity+%E2%80%A2+Backend+Development+%E2%80%A2+DevOps" alt="typing" />
-
-  <!-- Subheader -->
-  <h3 align="center">Building secure, scalable backends — learning by doing, documenting everything.</h3>
-
-  <!-- Decorative gradient divider (SVG image embed) -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/Excelyno/branding-assets/main/gradient-underline.svg" alt="gradient" width="640"/>
+  <a href="https://github.com/excelyno">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=550&lines=Informatics+Undergraduate+at+University+of+Jember;Cybersecurity+Enthusiast;Backend+Developer+in+Progress;Always+Learning+New+Tech!" />
+  </a>
 </p>
 
 ---
 
-## 🔭 About Me
-**Excelyno Magenta** — Undergraduate Informatics, University of Jember.  
-Background: vocational high school (SMK) with early DevOps training; currently focused on **backend engineering**, **cybersecurity learning labs (TryHackMe / CTF)**, and practical **DevOps pipelines**.
+## 🚀 About Me
+I am an Informatics undergraduate at **University of Jember** with a strong passion for:
+- **Cybersecurity** (TryHackMe learner, Pentesting Fundamentals)
+- **Backend Engineering** (API design, system architecture, containerization)
+- **DevOps Foundations** (learned during vocational high school)
+- **Data, automation, and problem-solving**
+
+I love exploring security, building backend systems, and understanding how infrastructure works behind the scenes.
 
 ---
 
-## ⚡ Quick Highlights
-- Backend: TypeScript · Node.js · Express · REST API design  
-- Databases: PostgreSQL / MongoDB (integration & modeling)  
-- DevOps: Docker, Docker Compose, GitHub Actions fundamentals  
-- Security: Web app security basics, CTF challenges, Linux fundamentals
+## 🧠 Current Focus
+- Learning **Cybersecurity Fundamentals & Pentesting**
+- Building backend projects using **Node.js / TypeScript / Go**
+- Strengthening DevOps skills through Docker, CI/CD, and cloud integrations
+- Understanding secure system design and threat modeling
 
 ---
 
-## 📊 Live GitHub Widgets
-
-<!-- GitHub readme-stats (compact) -->
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&count_private=false" alt="Excelyno's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight" alt="Streak" width="48%"/>
-</p>
-
-<!-- Top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-  <!-- Trophy card (see troubleshooting section if not updating) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=flat&margin-w=8&margin-h=8&row=1&column=6&no-bg=true" alt="Trophies" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=Matrix&column=7&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-## 🧩 Featured Projects (Short list)
-> Projek-projek sedang dikembangkan — link repo akan muncul di sini saat siap.
+## 📊 GitHub Stats & Activity
 
-- **Backend-Portfolio** — Modular REST API + auth + DB patterns  
-- **DevOps-Pipeline-Demo** — Dockerized app + simple GitHub Actions CI  
-- **Cyber-Labs-Notes** — Writeups & automation scripts for learning labs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
----
-
-## 🛠️ Roadmap (What I’m building next)
-- [ ] Production-ready backend service (deployable)  
-- [ ] Full CI/CD pipeline, automated tests, and container registry  
-- [ ] Publish security writeups from CTF and TryHackMe labs  
-- [ ] Personal portfolio website with live demos
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📚 Learning Logs
-Saya dokumentasikan eksperimen, failure, dan solusi — agar proses pembelajaran bisa diulang dan dimanfaatkan oleh orang lain. Lihat folder `learning/` di repo untuk catatan dan playbook.
+## 🧰 Tech Stack & Tools
+
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus"/>
+</p>
+
+### **Backend & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx"/>
+</p>
+
+### **Cybersecurity**
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-000?style=for-the-badge&logo=kali-linux"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-000?style=for-the-badge&logo=burp-suite"/>
+</p>
 
 ---
 
-## 📬 Contact & Socials
-- GitHub: https://github.com/excelyno  
-- Email: (masukkan email di sini)  
-- LinkedIn: (opsional)
+## 🔧 Development Environment & Cloud Widgets
+
+### **Deployment Status**
+<p>
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Heroku%20Apps-000?style=for-the-badge&logo=heroku"/>
+</p>
+
+### **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=excelyno&style=flat-square&color=blue"/>
+</p>
 
 ---
 
-```md
+## 🃏 Developer Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://github.com/excelyno"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:excelyno@example.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+## 🧩 Fun Section
+### **"What I've Been Doing Lately" — Vercel Dev Activity**
+<p align="center">
+  <img src="https://vercel-api.vercel.app/api/devstats?username=excelyno"/>
+</p>
+
+---
+
+## 🎯 Mission
+To become a skilled **Backend Engineer** with strong cybersecurity awareness, building robust, secure, and scalable systems that create real-world impact.
+
+---
+
+<p align="center">Thanks for visiting! ⭐ If you like my profile, consider starring my repositories.</p>
