@@ -1,99 +1,77 @@
-<h1 align="center">Hi, I'm Excelyno Magenta 👨‍💻</h1>
-<h3 align="center">Informatics Student • Cybersecurity Learner • Future Backend Engineer</h3>
+<!-- HEADER -->
+<h1 align="center">Hi, I'm Excelyno Magenta</h1>
+<h3 align="center">Informatics Student · Cybersecurity Learner · Future Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Backend+Developer+in+Progress;DevOps+Explorer;Always+Learning+New+Tech" />
+  Passionate about building reliable backend systems, learning cybersecurity fundamentals,
+  and solving real-world problems through code.
 </p>
 
 ---
 
-## 🚀 About Me
-Undergraduate student passionate about secure backend systems, automation, and infrastructure.
+## 🚀 Tech Stack
 
-- 🔐 Pentesting & CTF
-- ⚙️ REST APIs & Clean Architecture
-- 🐳 Docker, CI/CD, Linux
-- 📈 Performance & Scalability
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
-## 🧰 Tech Stack
-<div align="center">
-  
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+## 🏆 Achievements
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=onedark&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
 ## 📊 GitHub Overview
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=radical&cache_seconds=28800"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=radical&cache_seconds=28800" />
 </p>
 
-![Profile Stats](https://raw.githubusercontent.com/excelyno/excelyno/output/profile-summary-card-output/tokyonight/3-stats.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=excelyno&theme=radical&hide_border=true" />
+</p>
 
-![Languages](https://raw.githubusercontent.com/excelyno/excelyno/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-
-</div>
-
----
-
-## 🧠 Profile Summary
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&hide_title=true" />
+</p>
 
 ---
 
-## ⭐ Highlighted Projects
-<div align="center">
+## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excelyno&repo=belajarPHP&theme=tokyonight)](https://github.com/excelyno/belajarPHP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excelyno&repo=backend-microservices&theme=tokyonight)](https://github.com/excelyno/backend-microservices)
+- 🔐 **Cybersecurity Playground** – small labs & scripts to practice security basics  
+- 🗄 **Backend API Experiments** – Express / REST APIs with authentication  
+- 🧠 **Data / Algorithms Notes** – competitive programming experiments  
 
-</div>
-
----
-
-## 📈 Contributors & Star History
-<div align="center">
-
-<img src="https://contrib.rocks/image?repo=excelyno/belajarPHP" />
-
-<br/><br/>
-
-<img src="https://starchart.cc/excelyno/belajarPHP.svg" />
-</div>
+👉 Explore more here: **[My Repositories](https://github.com/excelyno?tab=repositories)**
 
 ---
 
-## 💬 Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+## 🎯 Current Focus
+
+- Building backend services and simple APIs  
+- Learning DevOps tools (Docker, GitHub Actions)  
+- Strengthening problem-solving and debugging skills  
 
 ---
 
-## 📫 Connect
-<div align="center">
+## 📫 Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/excelyno)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/excelyno-magenta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:excelyno@example.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/excelyno">GitHub</a> •
+  <a href="#">Portfolio (coming soon)</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=excelyno&color=blueviolet&style=flat-square" />
-</div>
-
+⭐ If you like my work, consider starring some repositories!
