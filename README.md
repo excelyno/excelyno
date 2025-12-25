@@ -1,225 +1,106 @@
 <h1 align="center">Hi, I'm Excelyno Magenta 👨‍💻</h1>
-<h3 align="center">Undergraduate Informatics Student · Cybersecurity Learner · Future Backend Engineer</h3>
+<h3 align="center">Informatics Student • Cybersecurity Learner • Future Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A8FFEF&size=24&center=true&vCenter=true&width=600&lines=Informatics+Student+at+University+of+Jember;Cybersecurity+and+Pentesting+Learner;Aspiring+Backend+Developer;DevOps+Foundations+From+SMK;Always+Exploring+New+Tech+and+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Backend+Developer+in+Progress;DevOps+Explorer;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am an undergraduate Informatics student at **University of Jember** with a passion for building secure, scalable systems and exploring the depths of cybersecurity.
+Undergraduate student passionate about secure backend systems, automation, and infrastructure.
 
-- 🔐 **Cybersecurity**: TryHackMe learner, Pentesting enthusiast, CTF participant
-- ⚙️ **Backend Engineering**: API Development, Clean Architecture, Database Design, Security First
-- 🐳 **DevOps**: Docker, CI/CD, Linux, Infrastructure as Code
-- 🏗️ **System Design**: Scalability, Automation, Performance Optimization
-
-I thrive on understanding the 'why' and 'how' behind complex systems and enjoy the challenge of creating robust backend solutions.
+- 🔐 Pentesting & CTF
+- ⚙️ REST APIs & Clean Architecture
+- 🐳 Docker, CI/CD, Linux
+- 📈 Performance & Scalability
 
 ---
 
-## 🎯 Current Focus
-- Deepening cybersecurity fundamentals & advanced pentesting techniques
-- Building resilient microservices with Node.js / TypeScript
-- Implementing cloud-native DevOps practices and pipelines
-- Mastering secure coding principles & architectural patterns
-
----
-
-## 🧰 Tech Stack & Tools
-
-### Languages & Frameworks
+## 🧰 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
-
-### DevOps & Infrastructure
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-### Cybersecurity & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-F0652F?style=for-the-badge&logo=metasploit&logoColor=white" />
-</div>
-
-### Databases & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
----
-
-## 🏆 Achievements & Analytics
-
-<div align="center">
-  <!-- Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-### 📊 GitHub Stats & Activity Overview
-
-<div align="center">
-  <!-- Main Stats Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Excelyno's GitHub Stats" />
   
-  <!-- Coding Streak -->
-  <img height="180" src="https://streak-stats.demolab.com?user=excelyno&theme=tokyonight&hide_border=true" alt="Excelyno's Commit Streak" />
-</div>
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages" />
-</div>
-
----
-
-## 🌟 Detailed Stats & Insights
-
-### 📈 Contribution Activity & Code Frequency
-
-<div align="center">
-  <!-- Contribution Graph (Activity) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=tokyonight&hide_border=true&area=true&point=true" alt="Excelyno's Contribution Graph" />
-</div>
-
-<br/>
-
-### 🧠 Language & Repo Insights
-
-<div align="center">
-  <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<br/>
-
-### 🕐 Coding Time Breakdown (via Wakatime - Example Placeholder)
-
-<div align="center">
-  <!-- Wakatime Stats (Example - Requires Wakatime Account Integration) -->
-  <!-- Ganti dengan tautan Anda sendiri jika Anda menggunakan Wakatime -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=excelyno&theme=tokyonight&hide_border=true" /> -->
-  <img src="https://wakatime.com/share/@excelyno/4b0f0c1b-2c0a-4b1a-9d1e-2f3e4f5g6h7i.png" alt="Wakatime Stats" /> <!-- Contoh statis -->
 </div>
 
 ---
 
-## 📅 GitHub Activity & Recent Contributions
-
-<!-- Menampilkan aktivitas terbaru secara manual atau menggunakan alat eksternal -->
-<!-- GitHub tidak menyediakan API publik langsung untuk "Recent Activity" dalam format gambar seperti stats lainnya -->
-<!-- Alternatif: Gunakan alat seperti GitHub Readme Activity yang perlu diintegrasikan secara otomatis, atau buat daftar manual -->
-
+## 🏆 Achievements
 <div align="center">
-  <h3>🔄 Recent Public Contributions</h3>
-  <p>Check out my <a href="https://github.com/excelyno?tab=overview&from=2025-12-01&to=2025-12-25">GitHub profile</a> for the most up-to-date activity!</p>
-</div>
-
-<br/>
-
-<!-- Contoh manual untuk Recent Activity (Opsional - jika ingin menampilkan secara statis) -->
-<details>
-<summary>Click for Recent Repositories & Commits (Manual Highlight)</summary>
-
-- **Repository:** `my-awesome-project`
-  - **Commit:** Added new feature X
-  - **Date:** Dec 20, 2025
-- **Repository:** `learning-cybersecurity`
-  - **Commit:** Updated documentation for module Y
-  - **Date:** Dec 18, 2025
-- **Repository:** `backend-microservices`
-  - **Commit:** Fixed critical bug in service Z
-  - **Date:** Dec 15, 2025
-
-</details>
-
----
-
-### 🏷️ Activity Tags & Keywords
-
-<div align="center">
-  <!-- Ganti dengan tag atau teknologi yang paling sering Anda gunakan -->
-  <img src="https://img.shields.io/badge/Open%20Source-Yes!-informational?style=flat&logo=github&logoColor=white&color=008B8B" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
-  <img src="https://img.shields.io/badge/Security-Cybersecurity-informational?style=flat&logo=shield&logoColor=white&color=FF6B6B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&row=1&margin-w=8" />
 </div>
 
 ---
 
-## 📚 Learning Progress & Goals
+## 📊 GitHub Overview
 
-### Currently Studying
-- [ ] Advanced Node.js & TypeScript Patterns
-- [ ] Cloud Infrastructure (AWS / GCP)
-- [ ] Kubernetes & Container Orchestration
-- [ ] Advanced Cybersecurity & Red Team Operations
+<div align="center">
 
-### 2025 Goals
-- [ ] Complete 50+ TryHackMe rooms
-- [ ] Build and deploy 3 full-stack projects
-- [ ] Contribute to 10+ open-source repositories
-- [ ] Obtain 2 cybersecurity certifications
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 ---
 
-## 💬 Developer Quote
+## 🧠 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
+</div>
+
+---
+
+## ⭐ Highlighted Projects
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excelyno&repo=belajarPHP&theme=tokyonight)](https://github.com/excelyno/belajarPHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excelyno&repo=backend-microservices&theme=tokyonight)](https://github.com/excelyno/backend-microservices)
+
+</div>
+
+---
+
+## 📈 Contributors & Star History
+<div align="center">
+
+<img src="https://contrib.rocks/image?repo=excelyno/belajarPHP" />
+
+<br/><br/>
+
+<img src="https://starchart.cc/excelyno/belajarPHP.svg" />
+</div>
+
+---
+
+## 💬 Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
-## 🎯 Mission
-To become a highly skilled backend engineer with deep cybersecurity awareness, capable of building secure, scalable, and efficient systems that create real-world impact. Committed to continuous learning and contributing to the open-source community.
-
----
-
-## 📫 Connect with Me
+## 📫 Connect
 <div align="center">
-  <a href="https://github.com/excelyno">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/excelyno-magenta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:excelyno@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/excelyno">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/excelyno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/excelyno-magenta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:excelyno@example.com)
+
 </div>
 
 ---
 
-## 🖼️ Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=excelyno&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=excelyno&color=blueviolet&style=flat-square" />
 </div>
 
----
-
-<p align="center">
-  Thanks for visiting! If you find my work interesting, consider following me or starring my repositories. 🌟
-</p>
