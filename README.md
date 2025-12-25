@@ -69,43 +69,100 @@ I thrive on understanding the 'why' and 'how' behind complex systems and enjoy t
 ## 🏆 Achievements & Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
+  <!-- Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-### GitHub Stats & Activity
+### 📊 GitHub Stats & Activity Overview
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=excelyno&theme=tokyonight&hide_border=true" />
+  <!-- Main Stats Card -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Excelyno's GitHub Stats" />
+  
+  <!-- Coding Streak -->
+  <img height="180" src="https://streak-stats.demolab.com?user=excelyno&theme=tokyonight&hide_border=true" alt="Excelyno's Commit Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-### Contribution Graph & Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=tokyonight&hide_border=true" />
-</div>
-
-### Profile Summary
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages" />
 </div>
 
 ---
 
-## 🌟 Detailed Stats
+## 🌟 Detailed Stats & Insights
 
-### WakaTime Stats (Weekly Coding Activity)
+### 📈 Contribution Activity & Code Frequency
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=excelyno&theme=tokyonight&hide_border=true" />
+  <!-- Contribution Graph (Activity) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=tokyonight&hide_border=true&area=true&point=true" alt="Excelyno's Contribution Graph" />
 </div>
 
-### Coding Activity Breakdown
+<br/>
+
+### 🧠 Language & Repo Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=excelyno&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" />
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br/>
+
+### 🕐 Coding Time Breakdown (via Wakatime - Example Placeholder)
+
+<div align="center">
+  <!-- Wakatime Stats (Example - Requires Wakatime Account Integration) -->
+  <!-- Ganti dengan tautan Anda sendiri jika Anda menggunakan Wakatime -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=excelyno&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://wakatime.com/share/@excelyno/4b0f0c1b-2c0a-4b1a-9d1e-2f3e4f5g6h7i.png" alt="Wakatime Stats" /> <!-- Contoh statis -->
+</div>
+
+---
+
+## 📅 GitHub Activity & Recent Contributions
+
+<!-- Menampilkan aktivitas terbaru secara manual atau menggunakan alat eksternal -->
+<!-- GitHub tidak menyediakan API publik langsung untuk "Recent Activity" dalam format gambar seperti stats lainnya -->
+<!-- Alternatif: Gunakan alat seperti GitHub Readme Activity yang perlu diintegrasikan secara otomatis, atau buat daftar manual -->
+
+<div align="center">
+  <h3>🔄 Recent Public Contributions</h3>
+  <p>Check out my <a href="https://github.com/excelyno?tab=overview&from=2025-12-01&to=2025-12-25">GitHub profile</a> for the most up-to-date activity!</p>
+</div>
+
+<br/>
+
+<!-- Contoh manual untuk Recent Activity (Opsional - jika ingin menampilkan secara statis) -->
+<details>
+<summary>Click for Recent Repositories & Commits (Manual Highlight)</summary>
+
+- **Repository:** `my-awesome-project`
+  - **Commit:** Added new feature X
+  - **Date:** Dec 20, 2025
+- **Repository:** `learning-cybersecurity`
+  - **Commit:** Updated documentation for module Y
+  - **Date:** Dec 18, 2025
+- **Repository:** `backend-microservices`
+  - **Commit:** Fixed critical bug in service Z
+  - **Date:** Dec 15, 2025
+
+</details>
+
+---
+
+### 🏷️ Activity Tags & Keywords
+
+<div align="center">
+  <!-- Ganti dengan tag atau teknologi yang paling sering Anda gunakan -->
+  <img src="https://img.shields.io/badge/Open%20Source-Yes!-informational?style=flat&logo=github&logoColor=white&color=008B8B" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-informational?style=flat&logo=shield&logoColor=white&color=FF6B6B" />
 </div>
 
 ---
@@ -123,6 +180,18 @@ I thrive on understanding the 'why' and 'how' behind complex systems and enjoy t
 - [ ] Build and deploy 3 full-stack projects
 - [ ] Contribute to 10+ open-source repositories
 - [ ] Obtain 2 cybersecurity certifications
+
+---
+
+## 💬 Developer Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🎯 Mission
+To become a highly skilled backend engineer with deep cybersecurity awareness, capable of building secure, scalable, and efficient systems that create real-world impact. Committed to continuous learning and contributing to the open-source community.
 
 ---
 
@@ -144,27 +213,12 @@ I thrive on understanding the 'why' and 'how' behind complex systems and enjoy t
 
 ---
 
-## 💬 Developer Quote
+## 🖼️ Profile Views
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=excelyno&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
-
-## 🎯 Mission
-To become a highly skilled backend engineer with deep cybersecurity awareness, capable of building secure, scalable, and efficient systems that create real-world impact. Committed to continuous learning and contributing to the open-source community.
-
----
-
-## 📈 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=excelyno&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <p align="center">
   Thanks for visiting! If you find my work interesting, consider following me or starring my repositories. 🌟
