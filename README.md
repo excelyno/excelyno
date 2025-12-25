@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">Hi, I'm Excelyno Magenta </h1>
 <h3 align="center">Undergraduate Informatics Student · Cybersecurity Learner · Future Backend Engineer</h3>
 
@@ -55,6 +54,15 @@ I enjoy understanding how systems work under the hood and building secure, scala
 
 ---
 
+## 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=false&margin-w=4" alt="excelyno's trophies" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -62,8 +70,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 </p>
 
 ---
-
-
 
 ## 📘 Profile Summary Cards  
 <p align="center">
@@ -103,4 +109,3 @@ To become a highly skilled backend engineer with deep cybersecurity awareness, c
 <p align="center">
   Thanks for visiting! If you like my work, consider starring my repositories.
 </p>
-
