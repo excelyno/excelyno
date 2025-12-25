@@ -55,10 +55,8 @@ I enjoy understanding how systems work under the hood and building secure, scala
 ---
 
 ## 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=false&margin-w=4" alt="excelyno's trophies" />
-  </a>
+<div align="center"> 
+  <img src="https://github-trophies.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> 
 </div>
 
 ---
