@@ -31,25 +31,12 @@ Undergraduate student passionate about secure backend systems, automation, and i
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/excelyno?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/excelyno?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-$(repo)-blue?style=for-the-badge)
-
-</div>
-
----
-
 ## 📊 GitHub Overview
-
-> Versi ringan dan stabil (tanpa server pihak ketiga)
-
-<div align="center">
-
-![Profile Stats](https://raw.githubusercontent.com/excelyno/excelyno/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=radical&cache_seconds=28800"
+  />
+</p>
 
 ![Profile Stats](https://raw.githubusercontent.com/excelyno/excelyno/output/profile-summary-card-output/tokyonight/3-stats.svg)
 
