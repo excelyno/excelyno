@@ -54,18 +54,29 @@ I enjoy understanding how systems work under the hood and building secure, scala
 
 ---
 
-## 🏆 Achievements
-<div align="center"> 
-  <img src="https://github-trophies.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> 
+## 🏆 Achievements & Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4" alt="excelyno's trophies" />
+  </a>
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" />      
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -73,7 +84,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excelyno&theme=tokyonight" />
 </p>
-
 
 ---
 
