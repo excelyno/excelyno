@@ -60,7 +60,6 @@ I enjoy understanding how systems work under the hood and building secure, scala
   <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" />      
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
