@@ -32,23 +32,29 @@ Undergraduate student passionate about secure backend systems, automation, and i
 ---
 
 ## 🏆 Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&row=1&margin-w=8" />
+
+![Followers](https://img.shields.io/github/followers/excelyno?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/excelyno?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-$(repo)-blue?style=for-the-badge)
+
 </div>
 
 ---
 
 ## 📊 GitHub Overview
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://streak-stats.demolab.com/?user=excelyno&theme=tokyonight&hide_border=true" />
-</div>
+> Versi ringan dan stabil (tanpa server pihak ketiga)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+![Profile Stats](https://raw.githubusercontent.com/excelyno/excelyno/output/github-contribution-grid-snake-dark.svg)
+
+![Profile Stats](https://raw.githubusercontent.com/excelyno/excelyno/output/profile-summary-card-output/tokyonight/3-stats.svg)
+
+![Languages](https://raw.githubusercontent.com/excelyno/excelyno/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
 </div>
 
 ---
