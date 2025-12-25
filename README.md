@@ -57,26 +57,19 @@ I enjoy understanding how systems work under the hood and building secure, scala
 ## 🏆 Achievements & Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4" alt="excelyno's trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=excelyno&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 <br/>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-ten-sigma.vercel.app/api?username=excelyno&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=excelyno&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
