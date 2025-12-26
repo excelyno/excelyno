@@ -8,39 +8,24 @@
     <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117" />
   </a>
   
+[![Readme Stats](https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=excelyno&layout=donut-vertical&theme=radical&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)](https://github.com/excelyno)
 ---
 
 ## 🏅 **GitHub Trophies**  
 *(All achievements unlocked - including secret trophies!)*  
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=2&column=8&margin-w=15&margin-h=15&no-bg=true&rank=D,DD,C,B,A,S,E,EE" />
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Readme Stats](https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=excelyno&layout=donut-vertical&theme=radical&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
-
 [![Trophies](https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/excelyno)
 
 
+
+
+
+
 ## 📈 **Contribution Activity**  
-*(Live data - updated hourly)*
-
-<div align="center">
-  
-| Metric | Value | Period |
-|--------|-------|--------|
-| 🌟 **Total Stars Received** | `250+` | Lifetime |
-| 🔥 **Current Streak** | `7` days | Dec 19 - Dec 25 |
-| 💼 **Total Repositories** | `35+` | Public + Private |
-| 📤 **Pull Requests** | `100+` | Merged |
-| 👥 **Following** | `75+` developers | Growing network |
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > ✅ *All stats verified and automatically updated through GitHub Actions*
 
