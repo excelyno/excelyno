@@ -2,6 +2,10 @@
 *Transforming ideas into scalable solutions with passion for clean code and innovation*
 
 ---
+### 🔝 Top Languages
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=excelyno&theme=radical)
+![Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=excelyno&theme=radical)
 
 ## 📊 GitHub Stats
 
