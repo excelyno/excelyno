@@ -18,6 +18,9 @@
   <img src="https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=2&column=8&margin-w=15&margin-h=15&no-bg=true&rank=D,DD,C,B,A,S,E,EE" />
 </div>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### 🏆 **Achievement Highlights**
 - **Super Rank Achiever** - Reached SSS rank in Total Contributions
 - **Polyglot Developer** - Proficient in 8+ programming languages
