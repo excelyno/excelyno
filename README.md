@@ -24,7 +24,6 @@
 [![Readme Stats](https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=excelyno&layout=donut-vertical&theme=radical&border_color=1a1b26&bg_color=0f1117)](https://github.com/excelyno)
 
-[![Streak Stats](https://github-readme-streak-stats-fast.vercel.app/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)](https://github.com/excelyno)
 [![Trophies](https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/excelyno)
 
 
