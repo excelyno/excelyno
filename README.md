@@ -20,40 +20,33 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)
 
 ---
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack (Interactive Dashboard)
 
-###  Frontend
-![HTML5](https://skillicons.dev/icons?i=html) 
-![CSS3](https://skillicons.dev/icons?i=css) 
-![JavaScript](https://skillicons.dev/icons?i=js) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![React](https://skillicons.dev/icons?i=react) 
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+### 💻 Frontend
+| Web Basics | Frameworks | Styling / Tools |
+|------------|------------|----------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 
 ---
 
-###  Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
-![Go](https://skillicons.dev/icons?i=go) 
-![Python](https://skillicons.dev/icons?i=python) 
+### 🖥️ Backend
+| Runtime | Framework | Languages |
+|---------|-----------|----------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
-### Database
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
-![Redis](https://skillicons.dev/icons?i=redis) 
+### 🗄️ Database
+| NoSQL | SQL | Cache |
+|-------|-----|-------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
 ---
 
-###  Cloud & DevOps
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Heroku](https://skillicons.dev/icons?i=heroku) 
-![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Docker](https://skillicons.dev/icons?i=docker) 
-![Kubernetes](https://skillicons.dev/icons?i=k8s) 
+### ☁️ Cloud & DevOps
+| Cloud | Container | Orchestration |
+|-------|-----------|---------------|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
 ---
 
