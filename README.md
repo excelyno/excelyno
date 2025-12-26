@@ -5,11 +5,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=excelyno&layout=donut-vertical&theme=radical&border_color=1a1b26&bg_color=0f1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)
+| GitHub Stats | Top Languages | GitHub Streak |
+|--------------|---------------|---------------|
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=excelyno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=1a1b26&bg_color=0f1117) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=excelyno&layout=donut-vertical&theme=radical&border_color=1a1b26&bg_color=0f1117) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb) |
 
 ---
 
