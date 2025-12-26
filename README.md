@@ -1,5 +1,4 @@
-# 👨‍💻 Hi, I'm Excelyno!  
-
+##I AM JAWA
 ![Metrics](https://metrics.lecoq.io/excelyno?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 ## 📊 GitHub Stats
