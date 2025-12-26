@@ -59,11 +59,6 @@
 
 ---
 
-### 🎨 Animated Stats (Optional)
-![Frontend](https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=radical)
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&hide_border=true)
----
-
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
