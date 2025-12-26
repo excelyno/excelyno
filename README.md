@@ -1,7 +1,7 @@
 
 ![Metrics](https://metrics.lecoq.io/excelyno?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | GitHub Stats | Top Languages | GitHub Streak |
 |--------------|---------------|---------------|
@@ -9,20 +9,20 @@
 
 ---
 
-## 🏅 GitHub Trophies  
+## GitHub Trophies  
 
 ![Trophies](https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)
 
 ---
 
-## 📈 Contribution Activity  
+##  Contribution Activity  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)
 
 ---
 ## ⚙️ Tech Stack  
 
-### 💻 Frontend
+###  Frontend
 ![HTML5](https://skillicons.dev/icons?i=html) 
 ![CSS3](https://skillicons.dev/icons?i=css) 
 ![JavaScript](https://skillicons.dev/icons?i=js) 
@@ -30,8 +30,6 @@
 ![React](https://skillicons.dev/icons?i=react) 
 ![Next.js](https://skillicons.dev/icons?i=nextjs) 
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
-
-*✨ Modern, responsive & scalable frontend frameworks*
 
 ---
 
@@ -63,9 +61,9 @@
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 [LinkedIn](https://linkedin.com/in/excelyno) ·
 [Twitter](https://twitter.com/excelyno) ·
 [Discord](https://discord.gg/excelyno) ·
-[Email](mailto:hello@excelyno.dev)
+[Email](mailto:excellentqweee@gmail.com)
