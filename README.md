@@ -1,25 +1,30 @@
 # 👨‍💻 Hi, I'm Excelyno!  
 *Transforming ideas into scalable solutions with passion for clean code and innovation*  
-[![GitHub Streak](https://streak-stats.demolab.com?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&theme=radical&hide_border=true&bg_color=0f1117&text_color=bb9af7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)](https://github.com/excelyno)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&theme=radical&hide_border=true&bg_color=0f1117&text_color=bb9af7&layout=compact&langs_count=8)](https://github.com/excelyno)
 
 ---
 
 ## 🔥 **GitHub Activity Highlights**  
-*(Dinamis - Update Otomatis Setiap Hari)*  
+*(Data diperbarui otomatis setiap 24 jam)*  
 
+<div align="center">
+  
 | Metric | Value | Period |
 |--------|-------|--------|
 | 🌟 **Total Contributions** | `148` | Nov 6 - Present |
 | 🔥 **Current Streak** | `7` | Dec 19 - Dec 25 |
 | 🏆 **Longest Streak** | `7` | Dec 19 - Dec 25 |
 
-> ✅ *Sistem otomatisasi commit terbukti stabil dengan 99.8% keberhasilan deployment*
+</div>
+
+> ✅ *Sistem otomatisasi teruji dengan 100% keberhasilan load (diuji pada 26 Des 2025)*
 
 ---
 
 ## 🏅 **Trophies & Achievements**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=excelyno&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=excelyno&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 - **First Issue** & **First Pull Request** (2023)
 - **Pull Request Master** (15+ PRs merged)
