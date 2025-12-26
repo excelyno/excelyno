@@ -20,8 +20,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)
 
 ---
-
-## ⚙️ Tech Stack  
 ## ⚙️ Tech Stack  
 
 ### 💻 Frontend
@@ -37,33 +35,27 @@
 
 ---
 
-### 🖥️ Backend
+###  Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs) 
 ![Express](https://skillicons.dev/icons?i=express) 
 ![Go](https://skillicons.dev/icons?i=go) 
 ![Python](https://skillicons.dev/icons?i=python) 
 
-*⚡ Fast, concurrent & clean backend services*
-
 ---
 
-### 🗄️ Database
+### Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
 ![Redis](https://skillicons.dev/icons?i=redis) 
 
-*📊 High-performance & reliable data storage*
-
 ---
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![Heroku](https://skillicons.dev/icons?i=heroku) 
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
 ![Docker](https://skillicons.dev/icons?i=docker) 
 ![Kubernetes](https://skillicons.dev/icons?i=k8s) 
-
-*🚀 Scalable, containerized, and cloud-native deployments*
 
 ---
 
