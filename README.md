@@ -10,7 +10,6 @@
 ---
 
 ## 🏅 GitHub Trophies  
-*(All achievements unlocked — including secret trophies!)*  
 
 ![Trophies](https://github-trophies.vercel.app/?username=excelyno&theme=radical&row=1&column=8&margin-w=15&margin-h=15&no-bg=true)
 
@@ -20,17 +19,57 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&bg_color=0f1117&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true)
 
-> ✅ All stats verified and automatically updated through GitHub Actions
-
 ---
 
 ## ⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark)
-![Backend](https://skillicons.dev/icons?i=nodejs,express,go,python&theme=dark)
-![Database](https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark)
-![Cloud](https://skillicons.dev/icons?i=aws,heroku,vercel,docker,k8s&theme=dark)
+### 💻 Frontend
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
 
+*✨ Modern, responsive & scalable frontend frameworks*
+
+---
+
+### 🖥️ Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![Go](https://skillicons.dev/icons?i=go) 
+![Python](https://skillicons.dev/icons?i=python) 
+
+*⚡ Fast, concurrent & clean backend services*
+
+---
+
+### 🗄️ Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
+![Redis](https://skillicons.dev/icons?i=redis) 
+
+*📊 High-performance & reliable data storage*
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Heroku](https://skillicons.dev/icons?i=heroku) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Docker](https://skillicons.dev/icons?i=docker) 
+![Kubernetes](https://skillicons.dev/icons?i=k8s) 
+
+*🚀 Scalable, containerized, and cloud-native deployments*
+
+---
+
+### 🎨 Animated Stats (Optional)
+![Frontend](https://github-readme-stats.vercel.app/api/top-langs/?username=excelyno&layout=compact&theme=radical)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=excelyno&theme=react-dark&hide_border=true)
 ---
 
 ![3D Profile](./profile-3d-contrib/profile-season-animate.svg)
