@@ -1,8 +1,6 @@
 # 👨‍💻 Hi, I'm Excelyno!  
 *Transforming ideas into scalable solutions with passion for clean code and innovation*  
 
-![](./profile-3d-contrib/profile-season-animate.svg)
-
 
 
 <div align="center">
@@ -79,6 +77,9 @@
 ![Cloud](https://skillicons.dev/icons?i=aws,heroku,vercel,docker,k8s&theme=dark)
 
 </div>
+---
+
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
 
@@ -89,14 +90,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/excelyno) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/excelyno)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@excelyno.dev)
-
-</div>
-
-<div align="center">
-  
-> 🌱 *Currently learning advanced Kubernetes orchestration*  
-> 💬 *Ask me about scalable system design & cloud-native development*  
-> ⚡ *Fun fact: I've committed code on every continent (virtually, of course)*  
-> 📅 *Last updated: Friday, December 26, 2025*
-
-</div>
