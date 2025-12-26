@@ -1,11 +1,7 @@
 # 👨‍💻 Hi, I'm Excelyno!  
 *Transforming ideas into scalable solutions with passion for clean code and innovation*  
 
-<div align="center">
-  <a href="https://github.com/excelyno">
-    <img height="180" src="https://github-profile-3d-contrib.vercel.app/api/excelyno/profile-season-animate.svg" />
-  </a>
-</div>
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 
 
