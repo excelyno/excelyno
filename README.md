@@ -26,16 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack | Status |
-|--------|------------|-----------|--------|
-| **[DataSync API](https://datasynx-api.herokuapp.com)** | Real-time data pipeline | Node.js, Express, MongoDB | Heroku |
-| **[Portfolio Pro](https://excelyno.vercel.app)** | Interactive developer portfolio | Next.js, Three.js, Vercel | Vercel |
-| **[CodeBuddy CLI](https://github.com/excelyno/codebuddy)** | Dev productivity toolkit | Go, Cobra, GitHub Actions | GitHub Actions |
-
----
-
 ## ⚙️ Tech Stack  
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark)
