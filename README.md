@@ -1,10 +1,6 @@
 
 ![Metrics](https://metrics.lecoq.io/excelyno?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
-## GitHub Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%")
-
 
 ---
 ##  Tech Stack
