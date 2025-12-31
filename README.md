@@ -3,6 +3,8 @@
 
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=excelyno)](https://git.io/streak-stats)
+
 ##  Tech Stack
 
 <table width="100%" style="table-layout: fixed;">
