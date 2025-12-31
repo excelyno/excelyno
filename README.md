@@ -3,7 +3,7 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=excelyno&theme=radical&border=1a1b26&background=0f1117&stroke=bb9af7&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=89b4fb)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%")
 
 
 ---
