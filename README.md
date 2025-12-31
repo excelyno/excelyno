@@ -3,7 +3,8 @@
 
 
 ---
-<img src="https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=radical&hide_border=true" width="60%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=highcontrast&hide_border=true" width="60%" />
+
 
 ---
 
