@@ -3,7 +3,8 @@
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=excelyno)](https://git.io/streak-stats)
+<img src="https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%" />
+
 
 ##  Tech Stack
 
