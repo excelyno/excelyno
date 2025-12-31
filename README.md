@@ -3,8 +3,9 @@
 
 
 ---
-<img src="https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=blue-green&hide_border=false" alt="GitHub Streak" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=excelyno&theme=radical&hide_border=true" width="60%" />
 
+---
 
 ##  Tech Stack
 
